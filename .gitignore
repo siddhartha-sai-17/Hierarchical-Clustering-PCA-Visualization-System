@@ -19,6 +19,7 @@ venv/
 
 # Artifacts/Temp
 *.txt
+!requirements.txt
 *.png
 *.csv
 !all-data.csv
